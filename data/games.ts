@@ -82,7 +82,7 @@ export const games = [
       "Nine Men's Morris dates back to the Roman Empire, with boards found carved into the seats at the Acropolis in Athens and in Roman temples. The game was extremely popular in medieval England, and boards have been found carved into the cloister seats of many English cathedrals. It was mentioned in Shakespeare's \"A Midsummer Night's Dream\" and remained popular throughout Europe for centuries.",
     howToPlay:
       'The game has three phases: placing men on vacant points, moving men to adjacent points, and (when a player has only three men left) "flying" men to any vacant point. When a player forms a mill (three men in a row), they may remove one of their opponent\'s pieces. The goal is to reduce the opponent to fewer than three men or to leave them without a legal move. The game requires careful strategic thinking and planning several moves ahead.',
-    image: "/placeholder.svg?height=600&width=800&query=wooden nine mens morris game board with black and white pieces",
+    image: "/nine.jpg",
     funFacts: [
       "Nine Men's Morris is so ancient that boards have been found carved into the roofing slabs of the temple at Kurna in Egypt, dating to around 1400 BCE.",
       "In medieval England, the game was so popular that boards were often carved into church cloister seats, despite gambling being frowned upon by the church.",
@@ -101,7 +101,7 @@ export const games = [
     howToPlay:
       "Shogi is played on a 9×9 board with two players facing each other. Each player has 20 wedge-shaped pieces of different types, including the king, rook, bishop, gold general, silver general, knight, lance, and pawn. The most distinctive feature of Shogi is that captured pieces can be returned to the board as part of the capturing player's forces. The objective is to checkmate the opponent's king. Many pieces can be promoted when they reach the opponent's territory, gaining new movement capabilities.",
     image:
-      "/placeholder.svg?height=600&width=800&query=traditional wooden shogi japanese chess set with kanji characters",
+      "/shogi.jpg",
     funFacts: [
       "Shogi is the only chess variant where captured pieces can be returned to the board to fight for the capturing player.",
       'Professional Shogi players in Japan are called "Kishi" and can achieve celebrity status similar to professional sports players.',

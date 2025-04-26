@@ -34,13 +34,13 @@ export const blogPosts = [
         image: "/plinko-physics-trajectories.png",
       },
       {
-        title: "Pliko Today: A Renaissance of Traditional Games",
+        title: "A Renaissance of Traditional Games",
         content: [
           "In recent years, there has been a resurgence of interest in traditional wooden games like Pliko. As people seek alternatives to digital entertainment, these tactile, physical games offer a refreshing change of pace and a connection to history and craftsmanship.",
           "Modern craftsmen are creating beautiful, high-quality Pliko boards using sustainable hardwoods and precision manufacturing techniques. These contemporary versions honor the traditional design while incorporating subtle improvements in durability and playability.",
           "At GameCraftUK, we're proud to be part of this renaissance, offering meticulously crafted Pliko boards that combine historical authenticity with modern craftsmanship. Our boards are designed to be both beautiful objects and engaging games that can be enjoyed by players of all ages.",
         ],
-        image: "/placeholder.svg?key=x4g9l",
+        image: "/ranais.png",
       },
     ],
   },
@@ -53,7 +53,7 @@ export const blogPosts = [
     readingTime: 6,
     excerpt:
       "Learn how traditional wooden games like Pliko, Mancala, and Carrom can help develop critical thinking, mathematical skills, and social abilities in children.",
-    coverImage: "/placeholder.svg?key=xwsol",
+    coverImage: "/children.jpg",
     content: [
       "In an age dominated by digital entertainment, traditional wooden games offer a refreshing and valuable alternative for children's play and learning. These timeless games, which have entertained and educated generations across cultures, provide unique benefits that screen-based activities often cannot match.",
       "Research has consistently shown that hands-on, tactile play experiences are crucial for children's cognitive development. Traditional wooden games, with their physical pieces, spatial relationships, and rule-based structures, create rich learning environments that engage multiple senses and cognitive skills simultaneously.",
@@ -66,7 +66,7 @@ export const blogPosts = [
           "Pliko demonstrates principles of probability and physics as players observe how small changes in the initial drop position can lead to widely different outcomes. This provides an intuitive introduction to concepts that children will later encounter in formal mathematics education.",
           "Research conducted at the University of Cambridge found that children who regularly played traditional board games showed improved mathematical abilities compared to control groups, particularly in areas of numerical estimation and strategic thinking.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=child counting game pieces on wooden mancala board",
+        image: "/math.jpg",
       },
       {
         title: "Enhancing Social and Emotional Skills",
@@ -76,7 +76,7 @@ export const blogPosts = [
           "Games also create opportunities for cross-generational play, allowing children to connect with parents, grandparents, and other adults through a shared activity. This not only strengthens family bonds but also exposes children to different perspectives and problem-solving approaches.",
         ],
         image:
-          "/placeholder.svg?height=400&width=600&query=family of different generations playing wooden board game together",
+          "/social.jpg",
       },
       {
         title: "Fostering Concentration and Patience",
@@ -85,7 +85,7 @@ export const blogPosts = [
           "Studies have shown that regular engagement with activities requiring sustained concentration can help children develop better attention spans and self-regulation skills. These benefits can transfer to academic settings, where focused attention is crucial for learning.",
           "The tactile nature of wooden games also helps ground children in the present moment, creating a form of mindful play that contrasts with the often frenetic pace of digital entertainment. This can be particularly beneficial for children who struggle with attention or anxiety issues.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=child concentrating while playing traditional wooden game",
+        image: "/patienc.jpg",
       },
     ],
   },
@@ -98,7 +98,7 @@ export const blogPosts = [
     readingTime: 7,
     excerpt:
       "Explore the meticulous craftsmanship behind traditional wooden games, from selecting the perfect wood to applying time-honored finishing techniques.",
-    coverImage: "/placeholder.svg?height=600&width=800&query=craftsman workshop with wooden game boards and tools",
+    coverImage: "/wooden-game-craftsmanship.jpg",
     content: [
       "The creation of a traditional wooden game board is a journey that begins with raw timber and ends with a functional work of art. This process combines ancient woodworking traditions with modern precision, resulting in games that are not only enjoyable to play but also beautiful to behold and durable enough to become family heirlooms.",
       "At GameCraftUK, we believe that the quality of craftsmanship directly influences the playing experience. A well-crafted game board not only looks and feels superior but also ensures consistent and fair gameplay. This is why we maintain rigorous standards in our workshop, where each game is created with meticulous attention to detail.",
@@ -111,7 +111,7 @@ export const blogPosts = [
           "We primarily work with sustainable hardwoods such as maple, walnut, cherry, and oak. Each species brings its own unique characteristics in terms of grain pattern, color, hardness, and workability. For example, maple offers exceptional hardness and a clean, light appearance, making it ideal for Pliko pegs that need to withstand impact.",
           "Environmental responsibility is central to our wood sourcing. We use timber from managed forests where harvesting is balanced with replanting, ensuring that our craft contributes to sustainable forestry practices rather than depletion.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=selection of different hardwoods for game boards",
+        image: "/wood.jpg",
       },
       {
         title: "Precision Crafting Techniques",
@@ -121,7 +121,7 @@ export const blogPosts = [
           "For games with moving parts, such as the sliding discs in Carrom or the hinged boards of folding chess sets, precision becomes even more critical. The components must move smoothly without being too loose, requiring careful fitting and testing throughout the manufacturing process.",
         ],
         image:
-          "/placeholder.svg?height=400&width=600&query=craftsman using precision tools to create wooden game board",
+          "/craft.jpg",
       },
       {
         title: "The Art of Finishing",
@@ -130,7 +130,7 @@ export const blogPosts = [
           "We use traditional oil and wax finishes rather than plastic-like varnishes, allowing players to feel the natural warmth and texture of the wood. These finishes penetrate the wood rather than sitting on top, enhancing the grain pattern and providing protection from within.",
           "The finishing process for a quality game board can take several days, as multiple thin coats are applied with drying time between each. This patience is rewarded with a playing surface that not only looks beautiful but also develops a rich patina over years of use, becoming more beautiful with age.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=applying oil finish to wooden game board",
+        image: "/art.jpg",
       },
     ],
   },
@@ -144,7 +144,7 @@ export const blogPosts = [
     excerpt:
       "Take a journey across continents to discover how traditional wooden games reflect and preserve cultural values, history, and wisdom.",
     coverImage:
-      "/placeholder.svg?height=600&width=800&query=world map with traditional wooden games from different cultures",
+      "/g.jpg",
     content: [
       "Traditional games are more than just pastimes—they are cultural artifacts that reflect the values, history, and worldview of the societies that created them. As we explore wooden games from around the world, we discover fascinating insights into how different cultures approach strategy, luck, skill, and social interaction.",
       "These games have served as vehicles for cultural transmission across generations, teaching children not just how to play but how to think, interact, and understand their place in society. Many contain embedded lessons about resource management, conflict resolution, and ethical behavior that remain relevant today.",
@@ -158,7 +158,7 @@ export const blogPosts = [
           "The physical design of mancala boards often reflects local artistic traditions, from simple holes dug in the earth to elaborately carved wooden boards featuring cultural symbols and motifs. In some communities, particularly fine mancala boards were status symbols, commissioned by wealthy individuals and passed down as family heirlooms.",
         ],
         image:
-          "/placeholder.svg?height=400&width=600&query=traditional african wooden mancala boards with cultural carvings",
+          "/mancala.jpg",
       },
       {
         title: "Asia: Strategy and Philosophy",
@@ -167,7 +167,7 @@ export const blogPosts = [
           "The game of Go, with its simple rules but profound strategic depth, has been described as a microcosm of life itself. The goal is not to eliminate your opponent but to create balanced structures and control territory—a reflection of traditional Chinese values that prioritize harmony and coexistence over direct confrontation.",
           "Similarly, Shogi's unique feature of being able to return captured pieces to the board as your own forces reflects Japanese concepts of transformation and redemption. This stands in stark contrast to Western chess, where captured pieces are permanently removed—perhaps reflecting different cultural attitudes toward conflict and resolution.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=traditional wooden go board with black and white stones",
+        image: "/asia.jpg",
       },
       {
         title: "Europe: From Medieval Courts to Village Greens",
@@ -176,7 +176,7 @@ export const blogPosts = [
           "Nine Men's Morris, one of Europe's oldest known board games, was played by all social classes from Roman times through the Middle Ages. Archaeological findings show boards carved into cathedral cloisters, castle courtyards, and village taverns alike, demonstrating how games crossed social boundaries.",
           "The physical craftsmanship of European games often reflected the social status of their owners. While commoners might play with simple wooden pieces, aristocratic game sets could be works of art crafted from exotic woods, ivory, and precious metals. Today's traditional wooden games continue this legacy of craftsmanship, though with more democratic access.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=antique european wooden chess set with carved pieces",
+        image: "/aaa.jpg",
       },
     ],
   },
@@ -189,7 +189,7 @@ export const blogPosts = [
     readingTime: 6,
     excerpt:
       "Understand the psychological appeal of physical wooden games in a digital age, and why the tactile experience creates deeper engagement and satisfaction.",
-    coverImage: "/placeholder.svg?height=600&width=800&query=hands interacting with wooden game pieces on board",
+    coverImage: "/psy.png",
     content: [
       "In our increasingly digital world, traditional wooden games offer a distinctly different experience—one that engages our senses and minds in ways that digital entertainment often cannot. The resurgence of interest in these tactile games raises interesting questions about human psychology and our innate need for physical interaction.",
       "Research in cognitive psychology and neuroscience is beginning to explain why many people find wooden games so satisfying. The multi-sensory experience of handling physical game pieces activates different neural pathways than screen-based activities, creating richer cognitive and emotional experiences.",
@@ -202,7 +202,7 @@ export const blogPosts = [
           "Wooden games engage our haptic perception—our sense of touch—in complex and satisfying ways. The weight of a chess piece, the smooth finish of a game board, or the sound of wooden pieces clicking against each other all create a multi-sensory experience that digital games cannot replicate.",
           "Neuroscientific research has shown that tactile interaction activates broader networks in the brain compared to purely visual stimulation. When we handle wooden game pieces, we engage not only visual processing centers but also areas responsible for touch sensation, spatial awareness, and motor control, creating a more immersive cognitive experience.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=brain scan showing neural activity during tactile play",
+        image: "/power.jpg",
       },
       {
         title: "Mindfulness and Presence",
@@ -211,7 +211,7 @@ export const blogPosts = [
           "The deliberate pace of turn-based wooden games creates natural pauses for reflection and consideration. This rhythm contrasts sharply with the often frenetic pace of digital media, allowing players to engage in deeper strategic thinking and social connection.",
           "Psychologists have noted that this kind of focused attention can have effects similar to meditation practices, reducing stress and improving cognitive function. The tangible, physical nature of wooden games helps anchor players in the present moment, counteracting the tendency toward distraction and multitasking.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=people focused intently on wooden chess game",
+        image: "/mind.jpg",
       },
       {
         title: "Social Connection in Three Dimensions",
@@ -221,7 +221,7 @@ export const blogPosts = [
           "Research in developmental psychology has consistently shown that this kind of in-person play is essential for healthy social and emotional development. Even for adults, the shared experience of a physical game creates a different quality of social connection than online interaction, satisfying our deep-seated need for genuine human contact.",
         ],
         image:
-          "/placeholder.svg?height=400&width=600&query=diverse group of people laughing while playing traditional wooden game",
+          "/so.jpg",
       },
     ],
   },
@@ -235,7 +235,7 @@ export const blogPosts = [
     excerpt:
       "Practical tips for incorporating traditional wooden games into your family routine, creating meaningful screen-free time and building lasting memories.",
     coverImage:
-      "/placeholder.svg?height=600&width=800&query=modern family playing traditional wooden games in living room",
+      "/fami.jpg",
     content: [
       "In today's fast-paced, technology-dominated world, many families are seeking ways to create meaningful connections and quality time together. Traditional wooden games offer a perfect opportunity to step away from screens and engage with each other in a more direct and personal way.",
       "Introducing these timeless games into your family routine doesn't require a radical lifestyle change. With some thoughtful planning and a bit of creativity, traditional games can become a cherished part of your family culture, creating traditions and memories that will last for generations.",
@@ -249,7 +249,7 @@ export const blogPosts = [
           "Having games visible and accessible serves as a constant reminder of the option for screen-free entertainment. When a beautiful wooden game board is sitting on your coffee table, it's much easier to suggest a quick game than if the games are packed away in a closet or basement.",
         ],
         image:
-          "/placeholder.svg?height=400&width=600&query=cozy home corner with wooden games displayed and ready to play",
+          "/space.jpg",
       },
       {
         title: "Establishing Game Night Traditions",
@@ -258,7 +258,7 @@ export const blogPosts = [
           "Make these evenings special with small rituals—perhaps a special snack, a particular music playlist, or even a silly trophy that gets passed to each week's champion. These little touches help create positive associations and anticipation around game night.",
           "Don't be afraid to adapt game night to fit your family's changing needs and schedules. During busy seasons, you might shift to shorter games or move game night to weekend mornings. The key is consistency and commitment, not rigidity.",
         ],
-        image: "/placeholder.svg?height=400&width=600&query=family game night with traditional wooden games and snacks",
+        image: "/bbb.jpg",
       },
       {
         title: "Connecting Across Generations",
@@ -268,7 +268,7 @@ export const blogPosts = [
           "For families with members at a distance, traditional games can provide structure for meaningful visits. Having a chess or Pliko tournament when grandparents visit creates a focused activity that everyone can participate in, regardless of age or physical ability.",
         ],
         image:
-          "/placeholder.svg?height=400&width=600&query=grandparent teaching grandchild to play traditional wooden game",
+          "/conect.jpg",
       },
     ],
   },
