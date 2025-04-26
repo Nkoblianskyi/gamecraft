@@ -43,7 +43,7 @@ export default function ContactPage() {
                 <strong>Sunday:</strong> Closed
               </p>
 
-              <div className="p-6 bg-amber-50 dark:bg-amber-900/20 rounded-xl">
+              <div className="p-6 dark:bg-amber-900/20 rounded-xl">
                 <h3 className="text-xl font-semibold mb-4">Subscribe to Our Newsletter</h3>
                 <p className="mb-4">
                   Stay updated with the latest news, articles, and information about traditional wooden games by

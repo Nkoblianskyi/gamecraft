@@ -100,7 +100,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
                 </div>
               ))}
 
-            <div className="mt-12 p-6 bg-amber-50 dark:bg-amber-900/20 rounded-xl">
+            <div className="mt-12 p-6 dark:bg-amber-900/20 rounded-xl">
               <h3 className="text-xl font-semibold mb-4">Interested in Traditional Games?</h3>
               <p className="mb-4">
                 Explore our collection of traditional wooden games and discover the rich history and cultural

@@ -87,7 +87,7 @@ export default function GamePage({ params }: GamePageProps) {
               </>
             )}
 
-            <div className="mt-12 p-6 bg-amber-50 dark:bg-amber-900/20 rounded-xl">
+            <div className="mt-12 p-6 dark:bg-amber-900/20 rounded-xl">
               <h3 className="text-xl font-semibold mb-4">Interested in {game.name}?</h3>
               <p className="mb-4">
                 Want to learn more about this fascinating game? Contact us for more information about the history,
